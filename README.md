@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About me
 
 I'm currently working with software, business development, and technology 👨‍💻. I am the glue between the teams, customers, and new technologies. My expertise includes software and product development, analysis and interpretation, qualitative and quantitative research, creative and engaging solutions, mainly solving practical problems. Specific fields of interest include software development, logic, deductive reasoning, critical thinking, math, and creativity.
