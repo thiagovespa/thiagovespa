@@ -7,7 +7,9 @@ I enjoy traveling 🇧🇷 and spending time ⏲️ with my family 👪. Quickly
 It is also worth pointing out:
 
 ✔️ I'm experienced to align, lead, and I know how to scale teams from 3 to 150 people.
+
 ✔️ I stay calm when faced with adversity and this way I can focus on making high-quality decisions
+
 ✔️ I'm enthusiastically grabbing in learning new techs or discussing philosophical subjects.
 
 Competencies: Leadership, Formal and Informal Logic, Critical Thinking, Teaching, Math, Research and Development (R&D), Information Technology, Cloud Computing, Mentoring, Tutoring, Linux, and Software Development Skills (Java, C/C++, Python, SQL, HTML, Node, and so on).
