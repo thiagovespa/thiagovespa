@@ -51,9 +51,13 @@
 
 #### 🧰 Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,ts,svelte,astro,qt,postgres,docker,kubernetes,aws,linux,gentoo,hyprland&perline=14" alt="Java, C++, Python, TypeScript, Svelte, Astro, Qt, PostgreSQL, Docker, Kubernetes, AWS, Linux, Gentoo, Hyprland">
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js,php,bash&theme=dark" alt="Java, C, C++, C#, Python, TypeScript, JavaScript, PHP, Bash" height="40"> |
+| **Web & apps** | <img src="https://skillicons.dev/icons?i=nodejs,spring,html,css,tailwind,svelte,astro,react,qt,androidstudio,arduino&theme=dark" alt="Node.js, Spring, HTML, CSS, Tailwind, Svelte, Astro, React, Qt, Android, Arduino" height="40"> |
+| **Data & AI** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,pytorch,tensorflow,sklearn&theme=dark" alt="PostgreSQL, MySQL, SQLite, Redis, MongoDB, PyTorch, TensorFlow, scikit-learn" height="40"> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,cloudflare,nginx,githubactions,git&theme=dark" alt="Docker, Kubernetes, AWS, Google Cloud, Azure, Cloudflare, Nginx, GitHub Actions, Git" height="40"> |
+| **Daily setup** | <img src="https://skillicons.dev/icons?i=linux,vscode&theme=dark" alt="Linux, VS Code" height="40"> <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo"> <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland"> |
 
 #### ✍️ Latest writing <sub>(in Portuguese)</sub>
 
