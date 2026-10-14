@@ -8,12 +8,12 @@
 
 #### 💼 Experience
 
-- **CTO** · 2023 – present
+- **CTO** · 2023 – present<br>
   Technology strategy, architecture and engineering leadership; built a tech organization from scratch and worked on one of Latin America's largest AI agent deployments for the public sector.
 - **Head of Innovation and mentor** at a space-tech startup · 2024 – present
-- **Head of Development and Technology** · 2008 – 2023
+- **Head of Development and Technology** · 2008 – 2023<br>
   Started as a software architect delivering distributed systems for Cielo, Deutsche Bank, Walmart and Rede Globo, then scaled engineering from 3 to 150 people with a Tech Manager / Tech Lead model and a leadership program.
-- **Educator** · 2007 – present
+- **Educator** · 2007 – present<br>
   Computer Science lecturer (AI, compilers, formal languages), corporate trainer and executive director of a tech training company.
 
 #### 🛠️ What I'm building
