@@ -1,17 +1,27 @@
-## About me
+### Olá, eu sou o Thiago 👋
 
-I'm currently working with software, business development, and technology 👨‍💻. I am the glue between the teams, customers, and new technologies. My expertise includes software and product development, analysis and interpretation, qualitative and quantitative research, creative and engaging solutions, mainly solving practical problems. Specific fields of interest include software development, logic, deductive reasoning, critical thinking, math, and creativity.
+Executivo de tecnologia, pesquisador e professor. Há mais de 20 anos junto engenharia de software, liderança de pessoas e pesquisa.
 
-I enjoy traveling 🇧🇷 and spending time ⏲️ with my family 👪. Quickly learning new skills is under my belt. For this reason, you will see under my profile some eclectic knowledge such as archeology, aerospace probes, radio amateur transmissions, quantum mechanics, and astronomy.
+- 🧭 **Sócio-diretor da [Vesparium Tech](https://thiagovespa.com.br)**: estratégia de tecnologia, IA aplicada e formação de líderes técnicos
+- 🎓 **Doutor em Computação (USP)**, com pesquisa em IA e recuperação de informação, e **Doctor of Leadership (Andrews University)**
+- 📘 Autor de **Modelos de Decisão para Empresas de Software**
+- 🏗️ Já fui arquiteto de sistemas para Cielo, Deutsche Bank e Rede Globo, e estruturei times de engenharia de 3 a 150 pessoas
 
-It is also worth pointing out:
+<sub>🇺🇸 Technology executive, researcher and educator. PhD in Computer Science (USP), working on software architecture, applied AI and engineering leadership.</sub>
 
-✔️ I'm experienced to align, lead, and I know how to scale teams from 3 to 150 people.
+#### 🛠️ No que estou mexendo
 
-✔️ I stay calm when faced with adversity and this way I can focus on making high-quality decisions
+| Projeto | O que é |
+|---|---|
+| [**clivcut**](https://github.com/thiagovespa/clivcut) | Editor de vídeo open source pra Linux, em C++20 + Qt 6 + FFmpeg, com composição na GPU |
+| [**planningpoker**](https://github.com/thiagovespa/planningpoker) | Planning Poker em tempo real, sem backend e sem cadastro. [Usar agora →](https://thiagovespa.pages.dev/) |
+| [**prover9-mace4-gui**](https://github.com/thiagovespa/prover9-mace4-gui) | Port da GUI do Prover9/Mace4 (provador de teoremas) para Python 3 e wxPython 4 |
+| [**dots-hypr**](https://github.com/thiagovespa/dots-hypr) · [**vespa-overlay**](https://github.com/thiagovespa/vespa-overlay) | Meu ambiente: dotfiles do Hyprland e overlay Gentoo |
 
-✔️ I'm enthusiastically grabbing in learning new techs or discussing philosophical subjects.
+#### 💬 Interesses
 
-Competencies: Leadership, Formal and Informal Logic, Critical Thinking, Teaching, Math, Research and Development (R&D), Information Technology, Cloud Computing, Mentoring, Tutoring, Linux, and Software Development Skills (Java, C/C++, Python, SQL, HTML, Node, and so on).
+Arquitetura de software · IA generativa e agentes · Lógica e raciocínio dedutivo · Liderança técnica · Linux · Educação
 
-If you have something I can help with, please get in 👉 touch. 
+#### 📫 Contato
+
+[thiagovespa.com.br](https://thiagovespa.com.br) · [LinkedIn](https://linkedin.com/in/thiagovespa) · [ORCID](https://orcid.org/0000-0003-2193-2950) · [thiago@thiagovespa.com.br](mailto:thiago@thiagovespa.com.br)
