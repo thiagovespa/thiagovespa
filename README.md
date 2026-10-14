@@ -1,3 +1,19 @@
+```text
+                                       _____
+                                 o====(_____)
+               __________               | |
+           ___/__________\___           | |
+        .-'                  '-.       /  |
+       /    .--------------.    \     /   |
+      |    (                )    |   /    |
+      |     '--------------'     |__/    /
+       \____________________________.--'\
+        /  .-.  \                /  .-.  \
+       |  ( o )  |              |  ( o )  |
+        \  '-'  /                \  '-'  /
+         '-----'                  '-----'
+```
+
 ### Hi, I'm Thiago 👋
 
 **Technology executive, researcher and educator.** I help engineering teams grow without losing quality, and I've spent over 20 years combining software architecture, people leadership and research.
