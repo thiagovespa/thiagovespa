@@ -1,9 +1,18 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/vespa-dark.svg">
-    <img src="assets/vespa-light.svg" alt="ASCII art of a vintage Vespa scooter, signed Thiago Vespa" width="460">
-  </picture>
-</p>
+```text
+                                    ,-~ |
+       ________________          o==]___|
+      |                |            \ \
+      |________________|            /\ \
+ __  /  _,-----._      )           |  \ \.
+|_||/_-~         `.   /()          |  /|]_|_____
+  |//              \ |              \/ /_-~     ~-_
+  //________________||              / //___________\
+ //__|______________| \____________/ //___/-\ \~-_
+((_________________/_-o___________/_//___/  /\,\  \
+ |__/(  ((====)o===--~~                 (  ( (o/)  )
+      \  ``==' /                         \  `--'  /
+       `-.__,-'       Thiago Vespa        `-.__,-'
+```
 
 <p align="center">
   <a href="https://thiagovespa.com.br"><img src="https://img.shields.io/badge/thiagovespa.com.br-2A6F7C?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
